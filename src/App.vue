@@ -3,7 +3,7 @@
     <app-header/>
     <app-header2/>
     <router-view/>
-    <footer><a href="">CREATIVE PROJECT #5 GITHUB</a></footer>
+    <footer><a href="https://github.com/amaciasjr/cp5">CREATIVE PROJECT #5 GITHUB</a></footer>
   </div>
 </template>
 
