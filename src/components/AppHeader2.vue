@@ -26,7 +26,8 @@
      text-align: center;
      margin-right: auto;
      margin-left: auto;
-     width: 28%;
+     width: 300px;
+     display: flex;
  }
  ul {
      list-style-type:none;

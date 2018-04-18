@@ -82,6 +82,7 @@
  footer{
    margin-left: auto;
    margin-right: auto;
-   width: 28%;
+   width: 300px;
+   display: flex;
  }
 </style>
